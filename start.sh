@@ -1,4 +1,5 @@
-export NEWS_API_KEY=70fc571c8f9f4344a540345c199f56c7
-export SECRET_KEY=1212
+export MAIL_USERNAME='jasonprojects404@gmail.com'
+export MAIL_PASSWORD='PROJECTJASON'
+export SECRET_KEY='1a2b3c4d'
 
 python3.6 manage.py server

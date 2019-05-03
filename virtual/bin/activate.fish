@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/mr/Desktop/estudio/virtual"
+set -gx VIRTUAL_ENV "/home/jason/my-flask-apps/estudio-la-consequat/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
